@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1091836165623",
+    "firebase_url": "https://reffylogin.firebaseio.com",
+    "project_id": "reffylogin",
+    "storage_bucket": "reffylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091836165623:android:1a2aec89ea00f298",
+        "android_client_info": {
+          "package_name": "com.reffy.shannon.reffyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091836165623-tbu6o16b4j5m3bdgvfagonv8p3kth9j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhlWqYY7k0LwYUaL1ln8pxahJsgfsvT5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
